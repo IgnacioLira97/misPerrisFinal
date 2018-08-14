@@ -55,46 +55,6 @@ nav {
 }
 
 
-
-.siteDescription {
-   /* display: -moz-box; /* Firefox*/
-   /* display: -webkit-box; /* Chrome */
-   /* display: -ms-flexbox; /* IE 10 */
-    display: flexbox;
-    flex-direction: row;
-    width: 100%;
-    height: 150px;
-}
-
-.desImage {
-   /* -webkit-box-ordinal-group: 1; /* iOS 6-, Safari, Opera*/
- /*   -moz-box-ordinal-group: 1; /* Firefox*/
- /*   -ms-flex-order: 1; /* IE 10 */
-
-    width: 200px;
-    height: 150px;
-}
-
-    .desImage img {
-        width: 200px;
-        height: 150px;
-        margin-left: 5px;
-        border: 2px solid #6d6d6d;
-    }
-
-.des {
-    margin-left: 15px;
- /*   -webkit-box-ordinal-group: 2; /* iOS 6-, Safari, Opera*/
- /*   -moz-box-ordinal-group: 2; /* Firefox*/
-  /*  -ms-flex-order: 2; /* IE 10 */
-    width: 100%;
-   /* height: 140px;*/
-    color: white;
-    padding: 5px;
-}
-
-
-
 .center-fit {
     max-width: 100%;
     max-height: 50vh;
